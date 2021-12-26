@@ -1,18 +1,8 @@
 /*
 Title: Mortgage Calculator
-Type: Terminal Only
 Author: Emanuele Sgroi
-Description:
-   This small project is made with the purpose of my own practise only.
-   The "Mortgage Calculator Formula" has been taken from online resources and imported
-   in this Java Application.
- How it works:
-   This application works directly on the terminal.
-   Follow the instructions and answer all the questions that the program
-   will run for you.
-   The morgage calculator will actually calculate the real monthly payment for you
-   based on the information you will give to it.
  */
+
 package mortgage.calculator;
 import java.util.Scanner;
 import java.text.NumberFormat;
